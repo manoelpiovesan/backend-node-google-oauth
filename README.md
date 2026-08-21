@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Simple TSOA Backend</h1>
+  <h1>Backend Boilerplate</h1>
   <p>A Node.js backend application with JWT authentication, optional Google OAuth and PostgreSQL integration.</p>
 </div>
 
